@@ -77,3 +77,17 @@
   languages: []
   categories: [Forestry]
   tags: [Commercial, Technology]
+  
+- name: BlueSky
+  description: High-quality, historical, real-time and predictive environmental intelligence to predict climate change
+  url: "https://blueskyhq.in/"
+  languages: []
+  categories: [Air]
+  tags: [Commercial]
+
+- name: Terra.do
+  description: Courses that enable you to solve and act on climate issues
+  url: "https://www.terra.do/"
+  languages: []
+  categories: [Education]
+  tags: [Commercial]
