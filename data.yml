@@ -74,6 +74,17 @@
 - name: Kaiinos
   description: Service to develop models and solutions for geospatial process re-engineering, water governance and natural resource conservation.
   url: "https://www.kaiinos.com"
-  languages: []
   categories: [Forestry]
   tags: [Commercial, Technology]
+  
+- name: BlueSky
+  description: High-quality, historical, real-time and predictive environmental intelligence to predict climate change
+  url: "https://blueskyhq.in/"
+  categories: [Air Quality]
+  tags: [Commercial]
+
+- name: Terra.do
+  description: Courses that enable you to solve and act on climate issues
+  url: "https://www.terra.do/"
+  categories: [Education]
+  tags: [Commercial]
