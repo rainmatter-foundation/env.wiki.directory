@@ -15,12 +15,15 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Install Dependencies 🛠
-        run: |
-          python3 -m pip install --upgrade pip
-          pip3 install dirmaker
+      - name: Run dirmaker
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.8" # Version range or exact version of a Python version to use, using SemVer's version range syntax
+          architecture: "x64" # optional x64 or x86. Defaults to x64 if not specified
+      - run: |
+          pip install dirmaker
           mkdir -p site/directory
-          dirmaker --build --putput=site/directory
+          dirmaker --build --output=site/directory
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
