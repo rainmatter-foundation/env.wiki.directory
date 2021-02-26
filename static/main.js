@@ -25,6 +25,11 @@ function onFilter() {
 		return { taxonomy: e.dataset.taxonomy, value: e.value }
 	});
 
+	const cls = document.querySelector("#items").classList;
+	cls.remove("shake");
+	window.setTimeout(() => {
+		cls.add("shake");
+	}, 50);
 	filterList(sel, "#items .item");
 }
 
