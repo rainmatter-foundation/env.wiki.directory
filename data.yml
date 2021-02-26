@@ -1,0 +1,79 @@
+---
+- name: Zodhya
+  description: Energy efficiency solution to reduce opex by saving 30% on energy bills.
+  url: "https://www.zodhyatech.com"
+  categories: [Energy]
+  tags: [Commercial, Technology]
+  
+- name: String Bio
+  description: Service that leverages methane produced from waste or natural sources to create everyday products.
+  url: "http://www.stringbio.com"
+  categories: [Sustainable Materials]
+  tags: [Commercial]
+  
+- name: Nimble Vision
+  description: Water and energy analytics, insights are helping in conservation and improving the system efficiency.
+  url: "http://nimblevision.io"
+  categories: [Water]
+  tags: [Commercial, Technology]
+  
+- name: Packmile
+  description: Sustainable supply-chain packaging solutions.
+  url: "http://www.packmile.com"
+  categories: [Sustainable Materials]
+  tags: [Commercial]
+  
+- name: Prescinto
+  description: Service that unlocks actionable insights to increase solar energy efficiency .
+  url: "https://prescinto.com"
+  categories: [Energy]
+  tags: [Commercial, Technology]
+  
+- name: Spruce Up
+  description: Cleantech hardware technology manufacturing start-up.
+  url: "https://www.spruceup.in"
+  categories: [Waste Management]
+  tags: [Commercial, Technology]
+
+- name: SundayGrids
+  description: Building solar systems that are accessible to the larger collective.
+  url: "https://www.sundaygrids.com"
+  categories: [Energy]
+  tags: [Commercial]
+  
+- name: Log9 Materials
+  description: Nanotechnology company specializing in Graphene.
+  url: "https://www.log9materials.com"
+  categories: [Sustainable Materials]
+  tags: [Commercial]
+  
+- name: Technology for Wildlife
+  description: Conservation enterprise with expertise in geospatial data analysis and robot operations.
+  url: "https://www.techforwildlife.com"
+  categories: [Forestry]
+  tags: [Commercial, Technology]
+  
+- name: Fasal
+  description: Solution to enable precision agriculture accessible to a farmer .
+  url: "https://fasal.co"
+  categories: [Agriculture]
+  tags: [Commercial, Technology]
+
+- name: CropIn
+  description:  Intuitive, intelligent, self-evolving decision-making tool that brings consistency, dependability and sustainability to agricultural sector .
+  url: "https://www.cropin.com"
+  categories: [Agriculture]
+  tags: [Commercial, Technology]
+
+- name: Organic Mandya
+  description: Organic agricultural produce from Mandya and desi A2 milk.
+  url: "https://www.organicmandya.com"
+  categories: [Agriculture]
+  tags: [Commercial]
+
+- name: Kaiinos
+  description: Service to develop models and solutions for geospatial process re-engineering, water governance and natural resource conservation.
+  url: "https://www.kaiinos.com"
+  languages: []
+  categories: [Forestry]
+  tags: [Commercial, Technology]

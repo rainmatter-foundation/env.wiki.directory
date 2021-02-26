@@ -1,0 +1,17 @@
+---
+base_url: "https://env.wiki/directory"
+static_dir: "static"
+per_page: 50
+
+# Each entry can have multiple collection of tags (list of strings) in addition to the
+# categories. For instance, a directory of fonts could have multiple meaningful
+# tag collections per entry such as:
+# types = [serif, sans-serif, display, script]
+# mood = [retro, distressed, cool]
+# tag = [yep, nope, etc]
+taxonomies: ["tags"]
+
+site_name: "Environmental services directory"
+site_description: "Directory of services focusing on environment and sustainability in India."
+page_title: "{category} - Environmental and sustainability services in India."
+meta_description: "Directory of {category} services working in the environmental space in India."
