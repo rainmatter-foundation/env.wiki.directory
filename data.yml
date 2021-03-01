@@ -100,3 +100,9 @@
   url: "https://www.blabel.in/"
   categories: [Clothing]
   tags: [Commercial]
+
+- name: Hulladek
+  description: Service for effective, efficient and eco-friendly recycling and disposal of e-waste.
+  url: "https://hulladek.in/"
+  categories: [Waste Management]
+  tags: [Commercial, Technology]
