@@ -88,3 +88,15 @@
   url: "https://www.terra.do/"
   categories: [Education]
   tags: [Commercial]
+  
+- name: Eazybee 
+  description: Responsible fashion and clothing
+  url: "https://eazybee.com/"
+  categories: [Clothing]
+  tags: [Commercial]
+  
+- name: B Label 
+  description: Garments that are carbon-negative and made with strongest natural fibres on the planet
+  url: "https://www.blabel.in/"
+  categories: [Clothing]
+  tags: [Commercial]
