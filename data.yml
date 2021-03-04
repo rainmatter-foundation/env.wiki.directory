@@ -106,3 +106,9 @@
   url: "https://hulladek.in/"
   categories: [Waste Management]
   tags: [Commercial, Technology]
+  
+- name: ERPNext - Technology for non-profit organisations
+  description: Tech platform for managing HR, payroll, donations, accounting and project management
+  url: "https://fossunited.org/erpnext-for-npo"
+  categories: [Operations Management]
+  tags: [Commercial, Technology]
