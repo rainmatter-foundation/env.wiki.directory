@@ -116,11 +116,23 @@
 - name: Biome
   description: Design firm focused on ecology, architecture and water to spread sustainable living practices
   url: "https://www.biome-solutions.com/"
-  categories: [Sustainable Living]
+  categories: [Sustainable Design]
   tags: [Nonprofit]
   
 - name: Ananas
   description: Ecological design firm working on harvesting water, creating forests and designing land usage
   url: "https://ananas.design/"
-  categories: [Sustainable Living]
+  categories: [Sustainable Design]
   tags: [Commercial]
+  
+- name: Farmizen
+  description: Buy clean pesticide-free food from local farmers and producers
+  url: "https://www.farmizen.com/"
+  categories: [Agriculture. Produce]
+  tags: [Commercial]
+  
+- name: Organic Mandya
+  description: Buy organic produce through offline and online channels 
+  url: "https://www.organicmandya.com/old-home"
+  categories: [Agriculture. Produce]
+  tags: [Commercial]  
