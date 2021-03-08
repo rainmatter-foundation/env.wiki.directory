@@ -128,11 +128,11 @@
 - name: Farmizen
   description: Buy clean pesticide-free food from local farmers and producers
   url: "https://www.farmizen.com/"
-  categories: [Agriculture. Produce]
+  categories: [Agriculture, Produce]
   tags: [Commercial]
   
 - name: Organic Mandya
   description: Buy organic produce through offline and online channels 
   url: "https://www.organicmandya.com/old-home"
-  categories: [Agriculture. Produce]
+  categories: [Agriculture, Produce]
   tags: [Commercial]  
