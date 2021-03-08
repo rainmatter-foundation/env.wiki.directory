@@ -68,7 +68,7 @@
 - name: Organic Mandya
   description: Organic agricultural produce from Mandya and desi A2 milk
   url: "https://www.organicmandya.com"
-  categories: [Agriculture]
+  categories: [Agriculture, Produce]
   tags: [Commercial]
 
 - name: Kaiinos
@@ -130,9 +130,3 @@
   url: "https://www.farmizen.com/"
   categories: [Agriculture, Produce]
   tags: [Commercial]
-  
-- name: Organic Mandya
-  description: Buy organic produce through offline and online channels 
-  url: "https://www.organicmandya.com/old-home"
-  categories: [Agriculture, Produce]
-  tags: [Commercial]  
