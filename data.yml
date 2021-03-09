@@ -130,3 +130,15 @@
   url: "https://www.farmizen.com/"
   categories: [Agriculture, Produce]
   tags: [Commercial]
+  
+- name: Greenmyna
+  description: An eco-friendly wedding planning service
+  url: "https://www.greenmyna.com/"
+  categories: [Sustainable Design]
+  tags: [Commercial]  
+  
+- name: Green Solutions India
+  description: Environmental solutions provider that has designed, installed and commissioned over 450 environmental engineering projects
+  url: "https://www.greensolutionsindia.com/"
+  categories: [Sustainable Design]
+  tags: [Commercial]  
