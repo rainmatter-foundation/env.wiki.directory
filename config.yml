@@ -13,5 +13,5 @@ taxonomies: ["tags"]
 
 site_name: "Environmental services directory"
 site_description: "Directory of services focusing on environment and sustainability in India."
-page_title: "{category} - Environmental and sustainability services in India."
+page_title: "{category} - Services focusing on environment and sustainability in India."
 meta_description: "Directory of {category} services working in the environmental space in India."
