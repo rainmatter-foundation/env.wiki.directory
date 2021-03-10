@@ -50,7 +50,7 @@
 - name: Technology for Wildlife
   description: Conservation enterprise with expertise in geospatial data analysis and robot operations
   url: "https://www.techforwildlife.com"
-  categories: [Forestry]
+  categories: [Forestry, Sustainable Design]
   tags: [Commercial, Technology]
   
 - name: Fasal
@@ -74,7 +74,7 @@
 - name: Kaiinos
   description: Service to develop models and solutions for geospatial process re-engineering, water governance and natural resource conservation
   url: "https://www.kaiinos.com"
-  categories: [Forestry]
+  categories: [Forestry, Sustainable Design]
   tags: [Commercial, Technology]
   
 - name: BlueSky
