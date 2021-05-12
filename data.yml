@@ -158,5 +158,5 @@
 - name: Agrowaves
   description: Procuring 100% produce of the farmers from farm-gates on regular basis and building sustainable supply
   url: "https://agrowaves.in/"
-  categories: [Agriculture, Produce]
+  categories: [Agriculture]
   tags: [Commercial]
