@@ -160,3 +160,15 @@
   url: "https://agrowaves.in/"
   categories: [Agriculture]
   tags: [Commercial]
+  
+- name: Mongabay
+  description: News platform that brings high-quality, original reports from nature’s frontline in India.
+  url: "https://india.mongabay.com/"
+  categories: [Education]
+  tags: [Nonprofit]
+  
+- name: Biomimicry
+  description: Inspire and catalyze nature integrated thinking and living.
+  url: "https://www.biomimicryindia.com/"
+  categories: [Education]
+  tags: [Commercial]
