@@ -1,174 +1,817 @@
----
 - name: Zodhya
   description: Energy efficiency solution to reduce opex by saving 30% on energy bills
-  url: "https://www.zodhyatech.com"
-  categories: [Energy]
-  tags: [Commercial, Technology]
-  
+  url: https://www.zodhyatech.com
+  categories:
+    - Energy
+  tags:
+    - Commercial
+    - Technology
 - name: String Bio
-  description: Service that leverages methane produced from waste or natural sources to create everyday products
-  url: "http://www.stringbio.com"
-  categories: [Sustainable Materials]
-  tags: [Commercial]
-  
+  description: >-
+    Service that leverages methane produced from waste or natural sources to
+    create everyday products
+  url: http://www.stringbio.com
+  categories:
+    - Sustainable Materials
+  tags:
+    - Commercial
 - name: Nimble Vision
-  description: Water and energy analytics, insights are helping in conservation and improving the system efficiency
-  url: "http://nimblevision.io"
-  categories: [Water]
-  tags: [Commercial, Technology]
-  
+  description: >-
+    Water and energy analytics, insights are helping in conservation and
+    improving the system efficiency
+  url: http://nimblevision.io
+  categories:
+    - Water
+  tags:
+    - Commercial
+    - Technology
 - name: Packmile
   description: Sustainable supply-chain packaging solutions
-  url: "http://www.packmile.com"
-  categories: [Sustainable Materials]
-  tags: [Commercial]
-  
+  url: http://www.packmile.com
+  categories:
+    - Sustainable Materials
+  tags:
+    - Commercial
 - name: Prescinto
   description: Service that unlocks actionable insights to increase solar energy efficiency
-  url: "https://prescinto.com"
-  categories: [Energy]
-  tags: [Commercial, Technology]
-  
+  url: https://prescinto.com
+  categories:
+    - Energy
+  tags:
+    - Commercial
+    - Technology
 - name: Spruce Up
   description: Cleantech hardware technology manufacturing start-up
-  url: "https://www.spruceup.in"
-  categories: [Waste Management]
-  tags: [Commercial, Technology]
-
+  url: https://www.spruceup.in
+  categories:
+    - Waste Management
+  tags:
+    - Commercial
+    - Technology
 - name: SundayGrids
   description: Building solar systems that are accessible to the larger collective.
-  url: "https://www.sundaygrids.com"
-  categories: [Energy]
-  tags: [Commercial]
-  
+  url: https://www.sundaygrids.com
+  categories:
+    - Energy
+  tags:
+    - Commercial
 - name: Log9 Materials
   description: Nanotechnology company specializing in Graphene.
-  url: "https://www.log9materials.com"
-  categories: [Sustainable Materials]
-  tags: [Commercial]
-  
+  url: https://www.log9materials.com
+  categories:
+    - Sustainable Materials
+  tags:
+    - Commercial
 - name: Technology for Wildlife
-  description: Conservation enterprise with expertise in geospatial data analysis and robot operations
-  url: "https://www.techforwildlife.com"
-  categories: [Forestry, Sustainable Design]
-  tags: [Commercial, Technology]
-  
+  description: >-
+    Conservation enterprise with expertise in geospatial data analysis and robot
+    operations
+  url: https://www.techforwildlife.com
+  categories:
+    - Forestry
+    - Sustainable Design
+  tags:
+    - Commercial
+    - Technology
 - name: Fasal
   description: Solution to enable precision agriculture accessible to a farmer
-  url: "https://fasal.co"
-  categories: [Agriculture]
-  tags: [Commercial, Technology]
-
+  url: https://fasal.co
+  categories:
+    - Agriculture
+  tags:
+    - Commercial
+    - Technology
 - name: CropIn
-  description:  Intuitive, intelligent, self-evolving decision-making tool that brings consistency, dependability and sustainability to agricultural sector
-  url: "https://www.cropin.com"
-  categories: [Agriculture]
-  tags: [Commercial, Technology]
-
+  description: >-
+    Intuitive, intelligent, self-evolving decision-making tool that brings
+    consistency, dependability and sustainability to agricultural sector
+  url: https://www.cropin.com
+  categories:
+    - Agriculture
+  tags:
+    - Commercial
+    - Technology
 - name: Organic Mandya
   description: Organic agricultural produce from Mandya and desi A2 milk
-  url: "https://www.organicmandya.com"
-  categories: [Agriculture, Produce]
-  tags: [Commercial]
-
+  url: https://www.organicmandya.com
+  categories:
+    - Agriculture
+    - Produce
+  tags:
+    - Commercial
 - name: Kaiinos
-  description: Service to develop models and solutions for geospatial process re-engineering, water governance and natural resource conservation
-  url: "https://www.kaiinos.com"
-  categories: [Forestry, Sustainable Design]
-  tags: [Commercial, Technology]
-  
+  description: >-
+    Service to develop models and solutions for geospatial process
+    re-engineering, water governance and natural resource conservation
+  url: https://www.kaiinos.com
+  categories:
+    - Forestry
+    - Sustainable Design
+  tags:
+    - Commercial
+    - Technology
 - name: BlueSky
-  description: High-quality, historical, real-time and predictive environmental intelligence to predict climate change
-  url: "https://blueskyhq.in/"
-  categories: [Air Quality]
-  tags: [Commercial]
-
+  description: >-
+    High-quality, historical, real-time and predictive environmental
+    intelligence to predict climate change
+  url: https://blueskyhq.in/
+  categories:
+    - Air Quality
+  tags:
+    - Commercial
 - name: Terra.do
   description: Courses that enable you to solve and act on climate issues
-  url: "https://www.terra.do/"
-  categories: [Education]
-  tags: [Commercial]
-  
-- name: Eazybee 
+  url: https://www.terra.do/
+  categories:
+    - Education
+  tags:
+    - Commercial
+- name: Eazybee
   description: Responsible fashion and clothing
-  url: "https://eazybee.com/"
-  categories: [Clothing]
-  tags: [Commercial]
-  
-- name: B Label 
-  description: Garments that are carbon-negative and made with strongest natural fibres on the planet
-  url: "https://www.blabel.in/"
-  categories: [Clothing]
-  tags: [Commercial]
-
+  url: https://eazybee.com/
+  categories:
+    - Clothing
+  tags:
+    - Commercial
+- name: B Label
+  description: >-
+    Garments that are carbon-negative and made with strongest natural fibres on
+    the planet
+  url: https://www.blabel.in/
+  categories:
+    - Clothing
+  tags:
+    - Commercial
 - name: Hulladek
-  description: Service for effective, efficient and eco-friendly recycling and disposal of e-waste
-  url: "https://hulladek.in/"
-  categories: [Waste Management]
-  tags: [Commercial, Technology]
-  
+  description: >-
+    Service for effective, efficient and eco-friendly recycling and disposal of
+    e-waste
+  url: https://hulladek.in/
+  categories:
+    - Waste Management
+  tags:
+    - Commercial
+    - Technology
 - name: ERPNext - Technology for non-profit organisations
-  description: Tech platform for managing HR, payroll, donations, accounting and project management
-  url: "https://fossunited.org/erpnext-for-npo"
-  categories: [Operations Management]
-  tags: [Commercial, Technology]
-
+  description: >-
+    Tech platform for managing HR, payroll, donations, accounting and project
+    management
+  url: https://fossunited.org/erpnext-for-npo
+  categories:
+    - Operations Management
+  tags:
+    - Commercial
+    - Technology
 - name: Biome
-  description: Design firm focused on ecology, architecture and water to spread sustainable living practices
-  url: "https://www.biome-solutions.com/"
-  categories: [Sustainable Design]
-  tags: [Nonprofit]
-  
+  description: >-
+    Design firm focused on ecology, architecture and water to spread sustainable
+    living practices
+  url: https://www.biome-solutions.com/
+  categories:
+    - Sustainable Design
+  tags:
+    - Nonprofit
 - name: Ananas
-  description: Ecological design firm working on harvesting water, creating forests and designing land usage
-  url: "https://ananas.design/"
-  categories: [Sustainable Design]
-  tags: [Commercial]
-  
+  description: >-
+    Ecological design firm working on harvesting water, creating forests and
+    designing land usage
+  url: https://ananas.design/
+  categories:
+    - Sustainable Design
+  tags:
+    - Commercial
 - name: Farmizen
   description: Buy clean pesticide-free food from local farmers and producers
-  url: "https://www.farmizen.com/"
-  categories: [Agriculture, Produce]
-  tags: [Commercial]
-  
+  url: https://www.farmizen.com/
+  categories:
+    - Agriculture
+    - Produce
+  tags:
+    - Commercial
 - name: Greenmyna
   description: An eco-friendly wedding planning service
-  url: "https://www.greenmyna.com/"
-  categories: [Sustainable Design]
-  tags: [Commercial]  
-  
+  url: https://www.greenmyna.com/
+  categories:
+    - Sustainable Design
+  tags:
+    - Commercial
 - name: Green Solutions India
-  description: Environmental solutions provider that has designed, installed and commissioned over 450 environmental engineering projects
-  url: "https://www.greensolutionsindia.com/"
-  categories: [Sustainable Design]
-  tags: [Commercial]  
-
+  description: >-
+    Environmental solutions provider that has designed, installed and
+    commissioned over 450 environmental engineering projects
+  url: https://www.greensolutionsindia.com/
+  categories:
+    - Sustainable Design
+  tags:
+    - Commercial
 - name: GAIA Environmental Conservancy
   description: Specialized environmental services at your fingertips
-  url: "https://gaia.co.in/services/"
-  categories: [Sustainable Design]
-  tags: [Commercial] 
-
+  url: https://gaia.co.in/services/
+  categories:
+    - Sustainable Design
+  tags:
+    - Commercial
 - name: Refillable
   description: Save upto 5KGs of waste per month!
-  url: "https://refillable.store/"
-  categories: [Waste Management]
-  tags: [Commercial] 
-
+  url: https://refillable.store/
+  categories:
+    - Waste Management
+  tags:
+    - Commercial
 - name: Agrowaves
-  description: Procuring 100% produce of the farmers from farm-gates on regular basis and building sustainable supply
-  url: "https://agrowaves.in/"
-  categories: [Agriculture]
-  tags: [Commercial]
-  
+  description: >-
+    Procuring 100% produce of the farmers from farm-gates on regular basis and
+    building sustainable supply
+  url: https://agrowaves.in/
+  categories:
+    - Agriculture
+  tags:
+    - Commercial
 - name: Mongabay
-  description: News platform that brings high-quality, original reports from nature’s frontline in India.
-  url: "https://india.mongabay.com/"
-  categories: [Education]
-  tags: [Nonprofit]
-  
+  description: >-
+    News platform that brings high-quality, original reports from nature’s
+    frontline in India.
+  url: https://india.mongabay.com/
+  categories:
+    - Education
+  tags:
+    - Nonprofit
 - name: Biomimicry
   description: Inspire and catalyze nature integrated thinking and living.
-  url: "https://www.biomimicryindia.com/"
-  categories: [Education]
-  tags: [Commercial]
+  url: https://www.biomimicryindia.com/
+  categories:
+    - Education
+  tags:
+    - Commercial
+- name: FPOhub
+  description: >
+    FPOhub is an initiative to build an enabling ecosystem to facilitate
+    emergence of robust FPOs which in turn build livelihood and entrepreneurial
+    opportunities for rural communities and help in transition to economically
+    viable and ecologically sustainable agriculture.
+  url: https://fpohub.com/
+  categories:
+    - Agriculture
+  tags:
+    - Nonprofit
+- name: Map of Community Conserved Areas
+  description: >-
+    This map represents the Community Conserved Areas (CCAs) in India as point
+    locations which are colour coded by type of ecosystem.
+  url: https://kalpavriksh.org/cca-map/
+  categories:
+    - Map
+    - Forestry
+    - Education
+    - Data
+  tags:
+    - Technology
+    - Nonprofit
+- name: OtterByTech4Good
+  description: >-
+    A platform to help not-for-profits implement foundational tech tools to help
+    ease their day to day operations. The organisation is supported by volunteer
+    tech mentors.
+  url: https://www.otterbytech4good.com/
+  categories:
+    - Tool
+    - Playbook
+    - Service
+    - Education
+    - Operations Management
+  tags:
+    - Technology
+    - Nonprofit
+- name: MoveBank
+  description: >-
+    Movebank is a free, online database of animal tracking data hosted by the
+    Max Planck Institute of Animal Behavior. They help animal tracking
+    researchers to manage, share, protect, analyze and archive their data
+  url: https://www.movebank.org/
+  categories:
+    - Data
+    - Wildlife
+  tags:
+    - Technology
+    - Nonprofit
+- name: |
+    Digital Democracy
+  description: >-
+    Digital Democracy’s mission is to empower marginalized communities to use
+    technology to defend their rights
+  url: https://www.digital-democracy.org/ourwork/
+  categories:
+    - Service
+    - Tool
+  tags:
+    - Technology
+    - Nonprofit
+- name: India Under Construction
+  description: >-
+    India Under Construction is an online, interactive data portal that provides
+    information on infrastructure, protected areas and forest fragmentation
+    across India, and landscape permeability to movement for large mammals, in
+    Central India and Western Ghats.
+  url: https://indiaunderconstruction.com
+  categories:
+    - Map
+    - Data
+  tags:
+    - Technology
+    - Nonprofit
+- name: Restor
+  description: >-
+    A science-based open data platform for everyone, everywhere, Restor brings
+    transparency, connectivity and ecological insights to restoration efforts
+    around the world.
+  url: https://restor.eco/
+  categories:
+    - Data
+    - Tool
+    - Impact Measurement
+  tags:
+    - Technology
+    - Nonprofit
+- name: Puvidham
+  description: >-
+    Learning centre amidst organic farm and forest. Observation of nature and
+    discussions replace teaching time.
+  url: http://puvidham.in/
+  categories:
+    - Education
+    - Biodiversity
+    - Self Care
+  tags:
+    - ""
+- name: The Valley School
+  description: >-
+    Based on Jiddu Krishnamurthi's teachings.To observe the world, not from any
+    particular point of view or conclusion and to look at the whole of man’s
+    endeavour, his search for beauty, his search for truth and for a way of
+    living without conflict.
+  url: https://www.thevalleyschool.info/
+  categories:
+    - Education
+    - Biodiversity
+  tags:
+    - ""
+- name: Rishi Valley School
+  description: |+
+    Alternative Education. Jiddu Krishnamurthy School of Thought. 
+
+
+  url: https://www.rishivalley.org/
+  categories:
+    - Education
+    - Biodiversity
+  tags:
+    - ""
+- name: Rajghat Besant School
+  description: |+
+    Alternative Education. Jiddu Krishnamurthy School of Thought. 
+
+
+  url: https://www.rajghatbesantschool.org/
+  categories:
+    - Education
+    - Biodiversity
+  tags:
+    - ""
+- name: The School KFI
+  description: |+
+    Alternative Education. Jiddu Krishnamurthy School of Thought. 
+
+
+  url: https://www.theschoolkfi.org/
+  categories:
+    - Education
+    - Biodiversity
+  tags:
+    - ""
+- name: Paathashaala - The Palar Centre for Learning
+  description: |+
+    Alternative Education. Jiddu Krishnamurthy School of Thought. 
+
+
+  url: https://pcfl-kfi.org/pathashaala/
+  categories:
+    - Education
+    - Biodiversity
+  tags:
+    - ""
+- name: Sahyadri School
+  description: |+
+    Alternative Education. Jiddu Krishnamurthy School of Thought. 
+
+
+  url: http://sahyadrischool.org/
+  categories:
+    - Education
+  tags:
+    - ""
+- name: Poorna Learning Centre
+  description: >-
+    Alternative Education. 
+
+    Hands-on, experiential learning through doing and being is emphasised. Focus
+    is on intellectual ability, values of compassion, social sensitivity,
+    humility, respect for each other, respect for the earth and all that she
+    offers, adaptability, joyfulness, curiosity for how and why things happen
+    and a quest for excellence in whatever children do.
+  url: http://poorna.in/
+  categories:
+    - Education
+  tags:
+    - ""
+- name: India Youth Jam
+  description: >-
+    Focus on Sustainability, Partnerships between diverse allies,
+    intergenerational changemakers.
+  url: https://www.yesworld.org/indiajam2020/
+  categories:
+    - Education
+  tags:
+    - ""
+- name: Jagriti Yatra
+  description: >-
+    Focus on building India through enterprise. It focuses on the themes of
+    Agriculture, Health, Technology, Handicraft and Apparel, Women Empowerment
+    and Urbanization and interlinking entrepreneurship with nation-building.
+  url: https://www.jagritiyatra.com/
+  categories:
+    - Education
+  tags:
+    - ""
+- name: Shikshantar
+  description: >-
+    Experiential learning, paradigm shift in teaching – learning practices to
+    emerge as an alternative to the traditional examination oriented system of
+    education.
+  url: https://shikshantarschool.com/
+  categories:
+    - Education
+  tags:
+    - ""
+- name: Swaraj University
+  description: >-
+    An attempt to nurture the heart’s calling of young people with an
+    understanding of how their actions/ choices are interconnected and impacting
+    all our communities and nature.
+  url: http://www.swarajuniversity.org/
+  categories:
+    - Education
+  tags:
+    - ""
+- name: Shibhumi
+  description: |+
+    Alternative Education. Experience Based. 
+
+  url: https://www.shibumi.org.in/
+  categories:
+    - Education
+  tags:
+    - ""
+- name: Sholai
+  description: |+
+    Alternative Education. Jiddu Krishnamurthi School. 
+
+  url: https://www.sholaicloaat.org/v2/
+  categories:
+    - Education
+  tags:
+    - ""
+- name: Centre for Learning
+  description: |+
+    Experience Based. 
+
+  url: https://cfl.in/
+  categories:
+    - Education
+  tags:
+    - ""
+- name: Prakriya Green Wisdom
+  description: |+
+    Aternative Education. 
+
+  url: https://prakriyaschool.edu.in/
+  categories:
+    - Education
+  tags:
+    - ""
+- name: EKF - Existential Knowledge Foundation
+  description: |+
+    Alternative Education. Jinana KB School of Thought. Learning by Doing. 
+
+
+
+  url: https://existentialknowledgefoundation.org/
+  categories:
+    - Education
+    - Workshop
+  tags:
+    - ""
+- name: Bangalore Steiner School
+  description: |+
+    Alternative Education. Steiner School oif Thought. 
+
+  url: http://www.bangaloresteinerschool.org/
+  categories:
+    - Education
+  tags:
+    - ""
+- name: The Vels Academy
+  description: |+
+    Alternative Education. Steiner School oif Thought. 
+
+  url: https://www.thevelsacademy.com/
+  categories:
+    - Education
+  tags:
+    - ""
+- name: University of Agricultural Sciences, Bangalore
+  description: Gandhi Krishi Vignan Kendra, Bangalore
+  url: https://www.uasbangalore.edu.in/index.php/library-en/at-gkvk-campus-en
+  categories:
+    - Agriculture
+    - Nursery
+  tags:
+    - ""
+- name: Foundation for Revitalization of Local Health Traditions
+  description: |+
+    Ethno-Medicinal Plant Nursery & Knowledge Centre
+
+  url: http://envis.frlht.org/amruthvana/gardenshop.php
+  categories:
+    - Gardening
+    - Landscaping
+    - Agriculture
+    - Nursery
+    - Seminar
+    - Workshop
+  tags:
+    - ""
+- name: Krishnendra Nursery
+  description: |+
+    Indoor - Outfoor Ornamental Plant-Tree Nursery
+
+  url: http://www.krishnendranursery.in/
+  categories:
+    - Gardening
+    - Landscaping
+    - Nursery
+  tags:
+    - ""
+- name: Sahaja Seeds
+  description: >-
+    Indigenous Seed Store. Vegetables, trees, Mulch Crops, Grains, Cereals,
+    Pulses, Fruits, Greens.
+  url: https://www.sahajaseeds.in/
+  categories:
+    - Gardening
+    - Landscaping
+    - Biodiversity
+  tags:
+    - ""
+- name: Make My Garden
+  description: |
+    Help setup/ maintain home gardens.
+  url: http://makemygarden.co.in/
+  categories:
+    - Gardening
+    - Landscaping
+    - Nursery
+  tags:
+    - ""
+- name: My Dream Garden
+  description: |
+    Garden supplies/ setup/ maintainance
+  url: https://www.mydreamgarden.in/
+  categories:
+    - Gardening
+    - Landscaping
+    - Nursery
+  tags:
+    - ""
+- name: UrbanMali
+  description: |
+    Hire a Home-Gardener
+  url: https://www.urbanmali.com/
+  categories:
+    - Gardening
+    - Landscaping
+    - Livelihood
+    - Green Job
+  tags:
+    - ""
+- name: Navadarshanam
+  description: >+
+    Farm Space. Community. Food Processing. Home Stay - Visitors shown the
+    different processes. Workshops and training sessions.
+
+
+  url: http://navadarshanam.org/
+  categories:
+    - Agriculture
+    - Food Product
+    - Community
+    - Workshop
+  tags:
+    - ""
+- name: Bhoomi College
+  description: |
+    Alternative Education. For Adults. To be introduced to Sustainable Living.
+  url: https://bhoomicollege.org/
+  categories:
+    - Agriculture
+    - Education
+    - Community
+    - Workshop
+  tags:
+    - ""
+- name: The Eco Store
+  description: |+
+    Organic Store 
+
+  url: https://www.theecostore.in/
+  categories:
+    - Grocery
+    - Provision
+    - Food Product
+  tags:
+    - ""
+- name: The Organic World
+  description: |
+    Organic Store
+  url: https://theorganicworld.com/
+  categories:
+    - Food Product
+    - Self Care Product
+    - Chemical Free Food
+    - Grocery
+  tags:
+    - ""
+- name: Healthy Buddha
+  description: |
+    Organic Store
+  url: https://healthybuddha.in/
+  categories:
+    - Food Product
+    - Grocery
+    - Chemical Free Food
+  tags:
+    - ""
+- name: Gourmet Garden
+  description: |
+    Chemical Free Food.
+  url: https://gourmetgarden.in/
+  categories:
+    - Chemical Free Food
+  tags:
+    - ""
+- name: Bio Basics
+  description: |
+    Organic Store. Farmer Collective.
+  url: https://biobasics.org/
+  categories:
+    - Food Product
+    - Grocery
+    - Chemical Free Food
+  tags:
+    - ""
+- name: Community Farm
+  description: |
+    Organic Store.
+  url: https://communityfarm.in/
+  categories:
+    - Grocery
+    - Fruits and Vegetables
+  tags:
+    - ""
+- name: Spudnik Farms
+  description: |
+    Consumer - Small Farmer Connect Platform. Veggie Boxes.
+  url: https://www.spudnikfarms.com/subscribe-new.html
+  categories:
+    - Grocery
+    - Fruits and Vegetables
+  tags:
+    - ""
+- name: Green Apron
+  description: |
+    Mushroom and More
+  url: https://greenapron.in/collections/all
+  categories:
+    - Grocery
+    - Chemical Free Food
+    - Fruits and Vegetables
+  tags:
+    - ""
+- name: Organic Valley
+  description: |
+    Organic Store
+  url: https://www.organicvalley.co.in/
+  categories:
+    - Food Product
+    - Grocery
+    - Chemical Free Food
+    - Fruits and Vegetables
+  tags:
+    - ""
+- name: Lumiere
+  description: |
+    Organic Store
+  url: https://lumiere.co.in/
+  categories:
+    - Chemical Free Food
+  tags:
+    - ""
+- name: Organic Mandya
+  description: |
+    Organic Store
+  url: https://www.organicmandya.com/
+  categories:
+    - Chemical Free Food
+    - Food Product
+  tags:
+    - ""
+- name: Jivabhumi
+  description: |
+    Organic Store.
+  url: https://shop.jivabhumi.com/
+  categories:
+    - Chemical Free Food
+    - Food Product
+    - Grocery
+  tags:
+    - ""
+- name: Akshayakalpa
+  description: |
+    Chemical Free Milk and Milk Products
+  url: https://akshayakalpa.org/
+  categories:
+    - Food Product
+  tags:
+    - ""
+- name: Jivan Organics
+  description: |
+    Organic Store
+  url: https://www.jivanorganics.com/
+  categories:
+    - Chemical Free Food
+    - Provision
+  tags:
+    - ""
+- name: Shivani Organics
+  description: |
+    Organic Store
+  url: https://shivani-organics.business.site/
+  categories:
+    - Food Product
+    - Grocery
+    - Chemical Free Food
+    - Fruits and Vegetables
+  tags:
+    - ""
+- name: Go Native
+  description: >
+    Organic Store. Boutique. Self Care and Home Care Products. Handcrafted
+    Products
+  url: https://gonative.in/
+  categories:
+    - Handcrafted
+    - Food Product
+    - Self Care Product
+    - Restaurant
+    - Clothing
+  tags:
+    - ""
+- name: Vanastree
+  description: Seed Saver.
+  url: http://vanastree.org/
+  categories:
+    - Gardening
+    - Landscaping
+    - Agriculture
+  tags:
+    - ""
+- name: Annadana
+  description: |
+    Seed Saver.
+  url: https://annadana-india.org/
+  categories:
+    - Gardening
+    - Landscaping
+    - Agriculture
+  tags:
+    - ""
+- name: Natueco Research Centre
+  description: |
+    Model Farm. Farmer Training. Natural Farming Knowledge Hub.
+  url: https://beyondorganicfarming.in/overview.htm
+  categories:
+    - Gardening
+    - Landscaping
+    - Agriculture
+    - Workshop
+  tags:
+    - ""
