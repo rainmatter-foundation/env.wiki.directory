@@ -815,3 +815,11 @@
     - Workshop
   tags:
     - ""
+- name: Watsan
+  description: Natural water purifiers.
+  url: https://www.watsan.in
+  categories:
+    - Product
+    - Water
+  tags:
+    - ""
