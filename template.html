@@ -56,17 +56,19 @@
 				<div class="filters" id="filters">
 					{% if (taxonomies | length) > 0 %}
 							{% for tx in taxonomies %}
-								<div class="group filter-{{ tx }}">
-									<h4 class="taxonomy">{{ tx }}</h4>
-									<a href="#" class="toggle-filters" data-taxonomy="{{ tx }}" data-state="on">&larr; Toggle</a>
-									{% for t in taxonomies[tx] %}
-										<label for="filter-{{ tx }}-{{ t.slug }}">
-											<input type="checkbox" id="filter-{{ tx }}-{{ t.slug }}"
-												data-taxonomy="{{ tx }}"
-												value="{{ t.slug }}" checked />{{ t.name }}
-										</label>
-									{% endfor %}
-								</div>
+								{% if taxonomies[tx] | length > 0 %}
+									<div class="group filter-{{ tx }}">
+										<h4 class="taxonomy">{{ tx }}</h4>
+										<a href="#" class="toggle-filters" data-taxonomy="{{ tx }}" data-state="on">&larr; Toggle</a>
+										{% for t in taxonomies[tx] %}
+											<label for="filter-{{ tx }}-{{ t.slug }}">
+												<input type="checkbox" id="filter-{{ tx }}-{{ t.slug }}"
+													data-taxonomy="{{ tx }}"
+													value="{{ t.slug }}" checked />{{ t.name }}
+											</label>
+										{% endfor %}
+									</div>
+								{% endif %}
 							{% endfor %}
 					{% endif %}
 				</div>
@@ -116,6 +118,8 @@
 					</ul>
 				{% endif %}
 			</section>
+
+			<h3 id="no-results">No results.</h3>
 		</section><!-- content -->
 	</div><!-- container -->
 
